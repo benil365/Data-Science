@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore")
 # In[2]:
 
 
-titanic_data=pd.read_csv("C:/Users/VDT/OneDrive/Desktop/titanic_data.csv")
+titanic_data=pd.read_csv("C:/Users/VDT/OneDrive/Desktop/Finance_data.csv")
 
 
 # In[3]:
